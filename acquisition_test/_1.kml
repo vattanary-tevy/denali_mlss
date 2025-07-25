@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name> Camera 1 Target 299</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0299.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 300</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0300.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 301</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0301.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 302</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0302.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 305</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0305.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 308</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0308.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 311</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0311.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 314</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0314.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 317</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0317.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 320</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0320.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:33Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 323</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0323.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 326</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0326.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 329</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0329.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 332</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0332.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 335</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0335.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 338</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0338.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 341</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0341.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 344</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0344.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 347</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0347.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 350</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0350.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 353</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0353.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:34Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 356</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0356.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 359</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0359.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 362</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0362.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 365</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0365.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 368</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0368.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 371</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0371.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 373</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0373.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 377</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0377.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 379</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0379.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 382</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0382.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:35Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>    <Placemark>
+      <name> Camera 1 Target 385</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0385.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:13:36Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>
+  </Document>
+</kml>

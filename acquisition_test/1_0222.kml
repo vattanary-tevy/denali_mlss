@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name> Camera 1 Target 222</name>
+      <description>
+        Latitude: 0.000000 Longitude: 0.000000 
+        <![CDATA[
+          <img src="1_0222.jpg">
+        ]]>
+      </description>
+      <TimeStamp><when>2023-09-30T11:12:03Z</when></TimeStamp>
+      <Point>
+        <coordinates>0.000000,0.000000,0</coordinates>
+      </Point>
+      <Camera>
+        <longitude>0.000000</longitude>
+        <latitude>0.000000</latitude>
+        <altitude>-900.000000</altitude>
+        <heading>0.000000</heading>
+        <tilt>90.000000</tilt>
+        <altitudeMode>absolute</altitudeMode>
+      </Camera>
+    </Placemark>
+  </Document>
+</kml>
