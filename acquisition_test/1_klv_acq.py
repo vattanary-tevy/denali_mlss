@@ -8,4 +8,4 @@ def read_klv_file(filename):
             value = f.read(length)
             print(f"Key: {key.hex()} | Length: {length} | Value (hex): {value.hex()[:32]}...")
 
-read_klv_file("C:/Users/VattanaryTevy/OneDrive - PowerLight Technologies/Desktop/denali_mlss/acquisition_test/1_0000.klv")
+read_klv_file("acquisition_test/1_0000.klv")
